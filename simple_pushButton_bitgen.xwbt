@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\Ankit\Desktop\AHD\UniversalRotator\simple_pushButton.ncd
+OUTFILE=C:\Users\Ankit\Desktop\AHD\UniversalRotator\simple_pushButton.bit
+FAMILY=Artix7
+PART=xc7a100t-3csg324
+WORKINGDIR=C:\Users\Ankit\Desktop\AHD\UniversalRotator
+LICENSE=WebPack
+USER_INFO=211237774_0_0_975

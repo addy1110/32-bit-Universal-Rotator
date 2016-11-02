@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/rotation_on_fpga.xst" -ofn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/rotation_on_fpga.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc simple_pushButton.ucf -p xc7a100t-csg324-3 rotation_on_fpga.ngc rotation_on_fpga.ngd  

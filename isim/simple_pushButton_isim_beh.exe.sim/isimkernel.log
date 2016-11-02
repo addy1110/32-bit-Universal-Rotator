@@ -1,0 +1,30 @@
+Command line:
+   simple_pushButton_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  52223
+
+Mon Oct 31 01:16:55 2016
+
+
+ Elaboration Time: 0.1092 sec
+
+ Current Memory Usage: 668.279 Meg
+
+ Total Signals          : 12
+ Total Nets             : 139
+ Total Signal Drivers   : 6
+ Total Blocks           : 2
+ Total Primitive Blocks : 2
+ Total Processes        : 2
+ Total Traceable Variables  : 8
+ Total Scalar Nets and Variables : 499
+Total Line Count : 17
+Total Line Count : 17
+
+ Total Simulation Time: 0.1716 sec
+
+ Current Memory Usage: 668.279 Meg
+
+Mon Oct 31 01:25:17 2016
+

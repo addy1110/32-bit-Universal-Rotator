@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton_isim_par.exe" -prj "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton_par.prj" "work.simple_pushButton" 

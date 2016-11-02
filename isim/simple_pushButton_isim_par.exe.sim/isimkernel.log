@@ -1,0 +1,31 @@
+Command line:
+   simple_pushButton_isim_par.exe
+     -simmode  gui
+     -sdfmax  /simple_pushButton/=netgen/par/simple_pushButton_timesim.sdf
+     -sdfroot  /
+     -simrunnum  0
+     -socket  52258
+
+Mon Oct 31 01:31:09 2016
+
+
+ Elaboration Time: 0.218401 sec
+
+ Current Memory Usage: 699.286 Meg
+
+ Total Signals          : 5620
+ Total Nets             : 3609
+ Total Signal Drivers   : 3389
+ Total Blocks           : 1085
+ Total Primitive Blocks : 591
+ Total Processes        : 3391
+ Total Traceable Variables  : 7690
+ Total Scalar Nets and Variables : 41122
+Total Line Count : 9723
+
+ Total Simulation Time: 0.686404 sec
+
+ Current Memory Usage: 699.286 Meg
+
+Mon Oct 31 01:53:06 2016
+

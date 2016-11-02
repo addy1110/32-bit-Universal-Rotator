@@ -1,0 +1,310 @@
+xst -intstyle ise -ifn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.xst" -ofn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc simple_pushButton.ucf -p xc7a100t-csg324-3 simple_pushButton.ngc simple_pushButton.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o simple_pushButton_map.ncd simple_pushButton.ngd simple_pushButton.pcf 
+par -w -intstyle ise -ol high -mt off simple_pushButton_map.ncd simple_pushButton.ncd simple_pushButton.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml simple_pushButton.twx simple_pushButton.ncd -o simple_pushButton.twr simple_pushButton.pcf -ucf simple_pushButton.ucf 
+bitgen -intstyle ise -f simple_pushButton.ut simple_pushButton.ncd 
+xst -intstyle ise -ifn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.xst" -ofn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc simple_pushButton.ucf -p xc7a100t-csg324-3 simple_pushButton.ngc simple_pushButton.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o simple_pushButton_map.ncd simple_pushButton.ngd simple_pushButton.pcf 
+par -w -intstyle ise -ol high -mt off simple_pushButton_map.ncd simple_pushButton.ncd simple_pushButton.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml simple_pushButton.twx simple_pushButton.ncd -o simple_pushButton.twr simple_pushButton.pcf -ucf simple_pushButton.ucf 
+bitgen -intstyle ise -f simple_pushButton.ut simple_pushButton.ncd 
+xst -intstyle ise -ifn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.xst" -ofn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc simple_pushButton.ucf -p xc7a100t-csg324-3 simple_pushButton.ngc simple_pushButton.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o simple_pushButton_map.ncd simple_pushButton.ngd simple_pushButton.pcf 
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o simple_pushButton_map.ncd simple_pushButton.ngd simple_pushButton.pcf 
+xst -intstyle ise -ifn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.xst" -ofn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc simple_pushButton.ucf -p xc7a100t-csg324-3 simple_pushButton.ngc simple_pushButton.ngd  
+xst -intstyle ise -ifn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.xst" -ofn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc simple_pushButton.ucf -p xc7a100t-csg324-3 simple_pushButton.ngc simple_pushButton.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc simple_pushButton.ucf -p xc7a100t-csg324-3 simple_pushButton.ngc simple_pushButton.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o simple_pushButton_map.ncd simple_pushButton.ngd simple_pushButton.pcf 
+par -w -intstyle ise -ol high -mt off simple_pushButton_map.ncd simple_pushButton.ncd simple_pushButton.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml simple_pushButton.twx simple_pushButton.ncd -o simple_pushButton.twr simple_pushButton.pcf -ucf simple_pushButton.ucf 
+bitgen -intstyle ise -f simple_pushButton.ut simple_pushButton.ncd 
+xst -intstyle ise -ifn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.xst" -ofn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc simple_pushButton.ucf -p xc7a100t-csg324-3 simple_pushButton.ngc simple_pushButton.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o simple_pushButton_map.ncd simple_pushButton.ngd simple_pushButton.pcf 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc simple_pushButton.ucf -p xc7a100t-csg324-3 simple_pushButton.ngc simple_pushButton.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc simple_pushButton.ucf -p xc7a100t-csg324-3 simple_pushButton.ngc simple_pushButton.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc simple_pushButton.ucf -p xc7a100t-csg324-3 simple_pushButton.ngc simple_pushButton.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc simple_pushButton.ucf -p xc7a100t-csg324-3 simple_pushButton.ngc simple_pushButton.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o simple_pushButton_map.ncd simple_pushButton.ngd simple_pushButton.pcf 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc simple_pushButton.ucf -p xc7a100t-csg324-3 simple_pushButton.ngc simple_pushButton.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o simple_pushButton_map.ncd simple_pushButton.ngd simple_pushButton.pcf 
+par -w -intstyle ise -ol high -mt off simple_pushButton_map.ncd simple_pushButton.ncd simple_pushButton.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml simple_pushButton.twx simple_pushButton.ncd -o simple_pushButton.twr simple_pushButton.pcf -ucf simple_pushButton.ucf 
+bitgen -intstyle ise -f simple_pushButton.ut simple_pushButton.ncd 
+xst -intstyle ise -ifn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.xst" -ofn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc simple_pushButton.ucf -p xc7a100t-csg324-3 simple_pushButton.ngc simple_pushButton.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o simple_pushButton_map.ncd simple_pushButton.ngd simple_pushButton.pcf 
+par -w -intstyle ise -ol high -mt off simple_pushButton_map.ncd simple_pushButton.ncd simple_pushButton.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml simple_pushButton.twx simple_pushButton.ncd -o simple_pushButton.twr simple_pushButton.pcf -ucf simple_pushButton.ucf 
+bitgen -intstyle ise -f simple_pushButton.ut simple_pushButton.ncd 
+xst -intstyle ise -ifn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.xst" -ofn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.syr" 
+xst -intstyle ise -ifn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.xst" -ofn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc simple_pushButton.ucf -p xc7a100t-csg324-3 simple_pushButton.ngc simple_pushButton.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o simple_pushButton_map.ncd simple_pushButton.ngd simple_pushButton.pcf 
+par -w -intstyle ise -ol high -mt off simple_pushButton_map.ncd simple_pushButton.ncd simple_pushButton.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml simple_pushButton.twx simple_pushButton.ncd -o simple_pushButton.twr simple_pushButton.pcf -ucf simple_pushButton.ucf 
+bitgen -intstyle ise -f simple_pushButton.ut simple_pushButton.ncd 
+xst -intstyle ise -ifn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.xst" -ofn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc simple_pushButton.ucf -p xc7a100t-csg324-3 simple_pushButton.ngc simple_pushButton.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o simple_pushButton_map.ncd simple_pushButton.ngd simple_pushButton.pcf 
+par -w -intstyle ise -ol high -mt off simple_pushButton_map.ncd simple_pushButton.ncd simple_pushButton.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml simple_pushButton.twx simple_pushButton.ncd -o simple_pushButton.twr simple_pushButton.pcf -ucf simple_pushButton.ucf 
+bitgen -intstyle ise -f simple_pushButton.ut simple_pushButton.ncd 
+xst -intstyle ise -ifn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.xst" -ofn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.syr" 
+xst -intstyle ise -ifn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.xst" -ofn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc simple_pushButton.ucf -p xc7a100t-csg324-3 simple_pushButton.ngc simple_pushButton.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o simple_pushButton_map.ncd simple_pushButton.ngd simple_pushButton.pcf 
+par -w -intstyle ise -ol high -mt off simple_pushButton_map.ncd simple_pushButton.ncd simple_pushButton.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml simple_pushButton.twx simple_pushButton.ncd -o simple_pushButton.twr simple_pushButton.pcf -ucf simple_pushButton.ucf 
+bitgen -intstyle ise -f simple_pushButton.ut simple_pushButton.ncd 
+xst -intstyle ise -ifn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.xst" -ofn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.syr" 
+xst -intstyle ise -ifn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.xst" -ofn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.syr" 
+xst -intstyle ise -ifn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.xst" -ofn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc simple_pushButton.ucf -p xc7a100t-csg324-3 simple_pushButton.ngc simple_pushButton.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o simple_pushButton_map.ncd simple_pushButton.ngd simple_pushButton.pcf 
+par -w -intstyle ise -ol high -mt off simple_pushButton_map.ncd simple_pushButton.ncd simple_pushButton.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml simple_pushButton.twx simple_pushButton.ncd -o simple_pushButton.twr simple_pushButton.pcf -ucf simple_pushButton.ucf 
+bitgen -intstyle ise -f simple_pushButton.ut simple_pushButton.ncd 
+xst -intstyle ise -ifn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.xst" -ofn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.syr" 
+xst -intstyle ise -ifn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.xst" -ofn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc simple_pushButton.ucf -p xc7a100t-csg324-3 simple_pushButton.ngc simple_pushButton.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o simple_pushButton_map.ncd simple_pushButton.ngd simple_pushButton.pcf 
+par -w -intstyle ise -ol high -mt off simple_pushButton_map.ncd simple_pushButton.ncd simple_pushButton.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml simple_pushButton.twx simple_pushButton.ncd -o simple_pushButton.twr simple_pushButton.pcf -ucf simple_pushButton.ucf 
+bitgen -intstyle ise -f simple_pushButton.ut simple_pushButton.ncd 
+xst -intstyle ise -ifn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.xst" -ofn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc simple_pushButton.ucf -p xc7a100t-csg324-3 simple_pushButton.ngc simple_pushButton.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o simple_pushButton_map.ncd simple_pushButton.ngd simple_pushButton.pcf 
+par -w -intstyle ise -ol high -mt off simple_pushButton_map.ncd simple_pushButton.ncd simple_pushButton.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml simple_pushButton.twx simple_pushButton.ncd -o simple_pushButton.twr simple_pushButton.pcf -ucf simple_pushButton.ucf 
+bitgen -intstyle ise -f simple_pushButton.ut simple_pushButton.ncd 
+xst -intstyle ise -ifn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.xst" -ofn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc simple_pushButton.ucf -p xc7a100t-csg324-3 simple_pushButton.ngc simple_pushButton.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o simple_pushButton_map.ncd simple_pushButton.ngd simple_pushButton.pcf 
+par -w -intstyle ise -ol high -mt off simple_pushButton_map.ncd simple_pushButton.ncd simple_pushButton.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml simple_pushButton.twx simple_pushButton.ncd -o simple_pushButton.twr simple_pushButton.pcf -ucf simple_pushButton.ucf 
+bitgen -intstyle ise -f simple_pushButton.ut simple_pushButton.ncd 
+xst -intstyle ise -ifn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.xst" -ofn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc simple_pushButton.ucf -p xc7a100t-csg324-3 simple_pushButton.ngc simple_pushButton.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o simple_pushButton_map.ncd simple_pushButton.ngd simple_pushButton.pcf 
+par -w -intstyle ise -ol high -mt off simple_pushButton_map.ncd simple_pushButton.ncd simple_pushButton.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml simple_pushButton.twx simple_pushButton.ncd -o simple_pushButton.twr simple_pushButton.pcf -ucf simple_pushButton.ucf 
+bitgen -intstyle ise -f simple_pushButton.ut simple_pushButton.ncd 
+xst -intstyle ise -ifn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.xst" -ofn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc simple_pushButton.ucf -p xc7a100t-csg324-3 simple_pushButton.ngc simple_pushButton.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o simple_pushButton_map.ncd simple_pushButton.ngd simple_pushButton.pcf 
+par -w -intstyle ise -ol high -mt off simple_pushButton_map.ncd simple_pushButton.ncd simple_pushButton.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml simple_pushButton.twx simple_pushButton.ncd -o simple_pushButton.twr simple_pushButton.pcf -ucf simple_pushButton.ucf 
+bitgen -intstyle ise -f simple_pushButton.ut simple_pushButton.ncd 
+xst -intstyle ise -ifn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.xst" -ofn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc simple_pushButton.ucf -p xc7a100t-csg324-3 simple_pushButton.ngc simple_pushButton.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o simple_pushButton_map.ncd simple_pushButton.ngd simple_pushButton.pcf 
+par -w -intstyle ise -ol high -mt off simple_pushButton_map.ncd simple_pushButton.ncd simple_pushButton.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml simple_pushButton.twx simple_pushButton.ncd -o simple_pushButton.twr simple_pushButton.pcf -ucf simple_pushButton.ucf 
+bitgen -intstyle ise -f simple_pushButton.ut simple_pushButton.ncd 
+xst -intstyle ise -ifn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.xst" -ofn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc simple_pushButton.ucf -p xc7a100t-csg324-3 simple_pushButton.ngc simple_pushButton.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o simple_pushButton_map.ncd simple_pushButton.ngd simple_pushButton.pcf 
+par -w -intstyle ise -ol high -mt off simple_pushButton_map.ncd simple_pushButton.ncd simple_pushButton.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml simple_pushButton.twx simple_pushButton.ncd -o simple_pushButton.twr simple_pushButton.pcf -ucf simple_pushButton.ucf 
+bitgen -intstyle ise -f simple_pushButton.ut simple_pushButton.ncd 
+xst -intstyle ise -ifn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.xst" -ofn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc simple_pushButton.ucf -p xc7a100t-csg324-3 simple_pushButton.ngc simple_pushButton.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o simple_pushButton_map.ncd simple_pushButton.ngd simple_pushButton.pcf 
+par -w -intstyle ise -ol high -mt off simple_pushButton_map.ncd simple_pushButton.ncd simple_pushButton.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml simple_pushButton.twx simple_pushButton.ncd -o simple_pushButton.twr simple_pushButton.pcf -ucf simple_pushButton.ucf 
+bitgen -intstyle ise -f simple_pushButton.ut simple_pushButton.ncd 
+xst -intstyle ise -ifn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.xst" -ofn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.syr" 
+xst -intstyle ise -ifn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.xst" -ofn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc simple_pushButton.ucf -p xc7a100t-csg324-3 simple_pushButton.ngc simple_pushButton.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o simple_pushButton_map.ncd simple_pushButton.ngd simple_pushButton.pcf 
+xst -intstyle ise -ifn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.xst" -ofn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc simple_pushButton.ucf -p xc7a100t-csg324-3 simple_pushButton.ngc simple_pushButton.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o simple_pushButton_map.ncd simple_pushButton.ngd simple_pushButton.pcf 
+par -w -intstyle ise -ol high -mt off simple_pushButton_map.ncd simple_pushButton.ncd simple_pushButton.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml simple_pushButton.twx simple_pushButton.ncd -o simple_pushButton.twr simple_pushButton.pcf -ucf simple_pushButton.ucf 
+bitgen -intstyle ise -f simple_pushButton.ut simple_pushButton.ncd 
+xst -intstyle ise -ifn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.xst" -ofn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.syr" 
+xst -intstyle ise -ifn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.xst" -ofn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc simple_pushButton.ucf -p xc7a100t-csg324-3 simple_pushButton.ngc simple_pushButton.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o simple_pushButton_map.ncd simple_pushButton.ngd simple_pushButton.pcf 
+par -w -intstyle ise -ol high -mt off simple_pushButton_map.ncd simple_pushButton.ncd simple_pushButton.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml simple_pushButton.twx simple_pushButton.ncd -o simple_pushButton.twr simple_pushButton.pcf -ucf simple_pushButton.ucf 
+bitgen -intstyle ise -f simple_pushButton.ut simple_pushButton.ncd 
+xst -intstyle ise -ifn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.xst" -ofn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc simple_pushButton.ucf -p xc7a100t-csg324-3 simple_pushButton.ngc simple_pushButton.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o simple_pushButton_map.ncd simple_pushButton.ngd simple_pushButton.pcf 
+par -w -intstyle ise -ol high -mt off simple_pushButton_map.ncd simple_pushButton.ncd simple_pushButton.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml simple_pushButton.twx simple_pushButton.ncd -o simple_pushButton.twr simple_pushButton.pcf -ucf simple_pushButton.ucf 
+bitgen -intstyle ise -f simple_pushButton.ut simple_pushButton.ncd 
+xst -intstyle ise -ifn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.xst" -ofn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc simple_pushButton.ucf -p xc7a100t-csg324-3 simple_pushButton.ngc simple_pushButton.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o simple_pushButton_map.ncd simple_pushButton.ngd simple_pushButton.pcf 
+par -w -intstyle ise -ol high -mt off simple_pushButton_map.ncd simple_pushButton.ncd simple_pushButton.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml simple_pushButton.twx simple_pushButton.ncd -o simple_pushButton.twr simple_pushButton.pcf -ucf simple_pushButton.ucf 
+bitgen -intstyle ise -f simple_pushButton.ut simple_pushButton.ncd 
+xst -intstyle ise -ifn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.xst" -ofn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc simple_pushButton.ucf -p xc7a100t-csg324-3 simple_pushButton.ngc simple_pushButton.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o simple_pushButton_map.ncd simple_pushButton.ngd simple_pushButton.pcf 
+par -w -intstyle ise -ol high -mt off simple_pushButton_map.ncd simple_pushButton.ncd simple_pushButton.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml simple_pushButton.twx simple_pushButton.ncd -o simple_pushButton.twr simple_pushButton.pcf -ucf simple_pushButton.ucf 
+bitgen -intstyle ise -f simple_pushButton.ut simple_pushButton.ncd 
+xst -intstyle ise -ifn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.xst" -ofn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc simple_pushButton.ucf -p xc7a100t-csg324-3 simple_pushButton.ngc simple_pushButton.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o simple_pushButton_map.ncd simple_pushButton.ngd simple_pushButton.pcf 
+par -w -intstyle ise -ol high -mt off simple_pushButton_map.ncd simple_pushButton.ncd simple_pushButton.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml simple_pushButton.twx simple_pushButton.ncd -o simple_pushButton.twr simple_pushButton.pcf -ucf simple_pushButton.ucf 
+bitgen -intstyle ise -f simple_pushButton.ut simple_pushButton.ncd 
+xst -intstyle ise -ifn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.xst" -ofn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc simple_pushButton.ucf -p xc7a100t-csg324-3 simple_pushButton.ngc simple_pushButton.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o simple_pushButton_map.ncd simple_pushButton.ngd simple_pushButton.pcf 
+par -w -intstyle ise -ol high -mt off simple_pushButton_map.ncd simple_pushButton.ncd simple_pushButton.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml simple_pushButton.twx simple_pushButton.ncd -o simple_pushButton.twr simple_pushButton.pcf -ucf simple_pushButton.ucf 
+bitgen -intstyle ise -f simple_pushButton.ut simple_pushButton.ncd 
+xst -intstyle ise -ifn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.xst" -ofn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.syr" 
+xst -intstyle ise -ifn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.xst" -ofn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc simple_pushButton.ucf -p xc7a100t-csg324-3 simple_pushButton.ngc simple_pushButton.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o simple_pushButton_map.ncd simple_pushButton.ngd simple_pushButton.pcf 
+par -w -intstyle ise -ol high -mt off simple_pushButton_map.ncd simple_pushButton.ncd simple_pushButton.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml simple_pushButton.twx simple_pushButton.ncd -o simple_pushButton.twr simple_pushButton.pcf -ucf simple_pushButton.ucf 
+bitgen -intstyle ise -f simple_pushButton.ut simple_pushButton.ncd 
+xst -intstyle ise -ifn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.xst" -ofn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc simple_pushButton.ucf -p xc7a100t-csg324-3 simple_pushButton.ngc simple_pushButton.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o simple_pushButton_map.ncd simple_pushButton.ngd simple_pushButton.pcf 
+par -w -intstyle ise -ol high -mt off simple_pushButton_map.ncd simple_pushButton.ncd simple_pushButton.pcf 
+bitgen -intstyle ise -f simple_pushButton.ut simple_pushButton.ncd 
+xst -intstyle ise -ifn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.xst" -ofn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc simple_pushButton.ucf -p xc7a100t-csg324-3 simple_pushButton.ngc simple_pushButton.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o simple_pushButton_map.ncd simple_pushButton.ngd simple_pushButton.pcf 
+xst -intstyle ise -ifn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.xst" -ofn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc simple_pushButton.ucf -p xc7a100t-csg324-3 simple_pushButton.ngc simple_pushButton.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o simple_pushButton_map.ncd simple_pushButton.ngd simple_pushButton.pcf 
+par -w -intstyle ise -ol high -mt off simple_pushButton_map.ncd simple_pushButton.ncd simple_pushButton.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml simple_pushButton.twx simple_pushButton.ncd -o simple_pushButton.twr simple_pushButton.pcf -ucf simple_pushButton.ucf 
+bitgen -intstyle ise -f simple_pushButton.ut simple_pushButton.ncd 
+xst -intstyle ise -ifn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.xst" -ofn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc simple_pushButton.ucf -p xc7a100t-csg324-3 simple_pushButton.ngc simple_pushButton.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o simple_pushButton_map.ncd simple_pushButton.ngd simple_pushButton.pcf 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc simple_pushButton.ucf -p xc7a100t-csg324-3 simple_pushButton.ngc simple_pushButton.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o simple_pushButton_map.ncd simple_pushButton.ngd simple_pushButton.pcf 
+par -w -intstyle ise -ol high -mt off simple_pushButton_map.ncd simple_pushButton.ncd simple_pushButton.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml simple_pushButton.twx simple_pushButton.ncd -o simple_pushButton.twr simple_pushButton.pcf -ucf simple_pushButton.ucf 
+bitgen -intstyle ise -f simple_pushButton.ut simple_pushButton.ncd 
+xst -intstyle ise -ifn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.xst" -ofn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc simple_pushButton.ucf -p xc7a100t-csg324-3 simple_pushButton.ngc simple_pushButton.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc simple_pushButton.ucf -p xc7a100t-csg324-3 simple_pushButton.ngc simple_pushButton.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o simple_pushButton_map.ncd simple_pushButton.ngd simple_pushButton.pcf 
+par -w -intstyle ise -ol high -mt off simple_pushButton_map.ncd simple_pushButton.ncd simple_pushButton.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml simple_pushButton.twx simple_pushButton.ncd -o simple_pushButton.twr simple_pushButton.pcf -ucf simple_pushButton.ucf 
+bitgen -intstyle ise -f simple_pushButton.ut simple_pushButton.ncd 
+xst -intstyle ise -ifn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.xst" -ofn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.syr" 
+xst -intstyle ise -ifn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.xst" -ofn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.syr" 
+xst -intstyle ise -ifn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.xst" -ofn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc simple_pushButton.ucf -p xc7a100t-csg324-3 simple_pushButton.ngc simple_pushButton.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o simple_pushButton_map.ncd simple_pushButton.ngd simple_pushButton.pcf 
+par -w -intstyle ise -ol high -mt off simple_pushButton_map.ncd simple_pushButton.ncd simple_pushButton.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml simple_pushButton.twx simple_pushButton.ncd -o simple_pushButton.twr simple_pushButton.pcf -ucf simple_pushButton.ucf 
+bitgen -intstyle ise -f simple_pushButton.ut simple_pushButton.ncd 
+xst -intstyle ise -ifn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.xst" -ofn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.syr" 
+xst -intstyle ise -ifn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.xst" -ofn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc simple_pushButton.ucf -p xc7a100t-csg324-3 simple_pushButton.ngc simple_pushButton.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o simple_pushButton_map.ncd simple_pushButton.ngd simple_pushButton.pcf 
+xst -intstyle ise -ifn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.xst" -ofn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc simple_pushButton.ucf -p xc7a100t-csg324-3 simple_pushButton.ngc simple_pushButton.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o simple_pushButton_map.ncd simple_pushButton.ngd simple_pushButton.pcf 
+par -w -intstyle ise -ol high -mt off simple_pushButton_map.ncd simple_pushButton.ncd simple_pushButton.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml simple_pushButton.twx simple_pushButton.ncd -o simple_pushButton.twr simple_pushButton.pcf -ucf simple_pushButton.ucf 
+bitgen -intstyle ise -f simple_pushButton.ut simple_pushButton.ncd 
+xst -intstyle ise -ifn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.xst" -ofn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.syr" 
+xst -intstyle ise -ifn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.xst" -ofn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc simple_pushButton.ucf -p xc7a100t-csg324-3 simple_pushButton.ngc simple_pushButton.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc simple_pushButton.ucf -p xc7a100t-csg324-3 simple_pushButton.ngc simple_pushButton.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o simple_pushButton_map.ncd simple_pushButton.ngd simple_pushButton.pcf 
+par -w -intstyle ise -ol high -mt off simple_pushButton_map.ncd simple_pushButton.ncd simple_pushButton.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml simple_pushButton.twx simple_pushButton.ncd -o simple_pushButton.twr simple_pushButton.pcf -ucf simple_pushButton.ucf 
+bitgen -intstyle ise -f simple_pushButton.ut simple_pushButton.ncd 
+xst -intstyle ise -ifn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.xst" -ofn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc simple_pushButton.ucf -p xc7a100t-csg324-3 simple_pushButton.ngc simple_pushButton.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o simple_pushButton_map.ncd simple_pushButton.ngd simple_pushButton.pcf 
+par -w -intstyle ise -ol high -mt off simple_pushButton_map.ncd simple_pushButton.ncd simple_pushButton.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml simple_pushButton.twx simple_pushButton.ncd -o simple_pushButton.twr simple_pushButton.pcf -ucf simple_pushButton.ucf 
+bitgen -intstyle ise -f simple_pushButton.ut simple_pushButton.ncd 
+xst -intstyle ise -ifn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.xst" -ofn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc simple_pushButton.ucf -p xc7a100t-csg324-3 simple_pushButton.ngc simple_pushButton.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o simple_pushButton_map.ncd simple_pushButton.ngd simple_pushButton.pcf 
+par -w -intstyle ise -ol high -mt off simple_pushButton_map.ncd simple_pushButton.ncd simple_pushButton.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml simple_pushButton.twx simple_pushButton.ncd -o simple_pushButton.twr simple_pushButton.pcf -ucf simple_pushButton.ucf 
+bitgen -intstyle ise -f simple_pushButton.ut simple_pushButton.ncd 
+xst -intstyle ise -ifn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.xst" -ofn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.syr" 
+xst -intstyle ise -ifn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.xst" -ofn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc simple_pushButton.ucf -p xc7a100t-csg324-3 simple_pushButton.ngc simple_pushButton.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o simple_pushButton_map.ncd simple_pushButton.ngd simple_pushButton.pcf 
+par -w -intstyle ise -ol high -mt off simple_pushButton_map.ncd simple_pushButton.ncd simple_pushButton.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml simple_pushButton.twx simple_pushButton.ncd -o simple_pushButton.twr simple_pushButton.pcf -ucf simple_pushButton.ucf 
+bitgen -intstyle ise -f simple_pushButton.ut simple_pushButton.ncd 
+netgen -intstyle ise -s 3  -pcf simple_pushButton.pcf -rpw 100 -tpw 0 -ar Structure -tm simple_pushButton -insert_pp_buffers true -w -dir netgen/par -ofmt vhdl -sim simple_pushButton.ncd simple_pushButton_timesim.vhd 
+xst -intstyle ise -ifn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.xst" -ofn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc simple_pushButton.ucf -p xc7a100t-csg324-3 simple_pushButton.ngc simple_pushButton.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o simple_pushButton_map.ncd simple_pushButton.ngd simple_pushButton.pcf 
+par -w -intstyle ise -ol high -mt off simple_pushButton_map.ncd simple_pushButton.ncd simple_pushButton.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml simple_pushButton.twx simple_pushButton.ncd -o simple_pushButton.twr simple_pushButton.pcf -ucf simple_pushButton.ucf 
+netgen -intstyle ise -s 3  -pcf simple_pushButton.pcf -rpw 100 -tpw 0 -ar Structure -tm simple_pushButton -insert_pp_buffers true -w -dir netgen/par -ofmt vhdl -sim simple_pushButton.ncd simple_pushButton_timesim.vhd 
+xst -intstyle ise -ifn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.xst" -ofn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc simple_pushButton.ucf -p xc7a100t-csg324-3 simple_pushButton.ngc simple_pushButton.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o simple_pushButton_map.ncd simple_pushButton.ngd simple_pushButton.pcf 
+par -w -intstyle ise -ol high -mt off simple_pushButton_map.ncd simple_pushButton.ncd simple_pushButton.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml simple_pushButton.twx simple_pushButton.ncd -o simple_pushButton.twr simple_pushButton.pcf -ucf simple_pushButton.ucf 
+netgen -intstyle ise -s 3  -pcf simple_pushButton.pcf -rpw 100 -tpw 0 -ar Structure -tm simple_pushButton -insert_pp_buffers true -w -dir netgen/par -ofmt vhdl -sim simple_pushButton.ncd simple_pushButton_timesim.vhd 
+xst -intstyle ise -ifn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.xst" -ofn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc simple_pushButton.ucf -p xc7a100t-csg324-3 simple_pushButton.ngc simple_pushButton.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o simple_pushButton_map.ncd simple_pushButton.ngd simple_pushButton.pcf 
+par -w -intstyle ise -ol high -mt off simple_pushButton_map.ncd simple_pushButton.ncd simple_pushButton.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml simple_pushButton.twx simple_pushButton.ncd -o simple_pushButton.twr simple_pushButton.pcf -ucf simple_pushButton.ucf 
+netgen -intstyle ise -s 3  -pcf simple_pushButton.pcf -rpw 100 -tpw 0 -ar Structure -tm simple_pushButton -insert_pp_buffers true -w -dir netgen/par -ofmt vhdl -sim simple_pushButton.ncd simple_pushButton_timesim.vhd 
+xst -intstyle ise -ifn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.xst" -ofn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc simple_pushButton.ucf -p xc7a100t-csg324-3 simple_pushButton.ngc simple_pushButton.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o simple_pushButton_map.ncd simple_pushButton.ngd simple_pushButton.pcf 
+par -w -intstyle ise -ol high -mt off simple_pushButton_map.ncd simple_pushButton.ncd simple_pushButton.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml simple_pushButton.twx simple_pushButton.ncd -o simple_pushButton.twr simple_pushButton.pcf -ucf simple_pushButton.ucf 
+netgen -intstyle ise -s 3  -pcf simple_pushButton.pcf -rpw 100 -tpw 0 -ar Structure -tm simple_pushButton -insert_pp_buffers true -w -dir netgen/par -ofmt vhdl -sim simple_pushButton.ncd simple_pushButton_timesim.vhd 
+xst -intstyle ise -ifn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.xst" -ofn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc simple_pushButton.ucf -p xc7a100t-csg324-3 simple_pushButton.ngc simple_pushButton.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o simple_pushButton_map.ncd simple_pushButton.ngd simple_pushButton.pcf 
+par -w -intstyle ise -ol high -mt off simple_pushButton_map.ncd simple_pushButton.ncd simple_pushButton.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml simple_pushButton.twx simple_pushButton.ncd -o simple_pushButton.twr simple_pushButton.pcf -ucf simple_pushButton.ucf 
+netgen -intstyle ise -s 3  -pcf simple_pushButton.pcf -rpw 100 -tpw 0 -ar Structure -tm simple_pushButton -insert_pp_buffers true -w -dir netgen/par -ofmt vhdl -sim simple_pushButton.ncd simple_pushButton_timesim.vhd 
+xst -intstyle ise -ifn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.xst" -ofn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc simple_pushButton.ucf -p xc7a100t-csg324-3 simple_pushButton.ngc simple_pushButton.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o simple_pushButton_map.ncd simple_pushButton.ngd simple_pushButton.pcf 
+par -w -intstyle ise -ol high -mt off simple_pushButton_map.ncd simple_pushButton.ncd simple_pushButton.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml simple_pushButton.twx simple_pushButton.ncd -o simple_pushButton.twr simple_pushButton.pcf -ucf simple_pushButton.ucf 
+netgen -intstyle ise -s 3  -pcf simple_pushButton.pcf -rpw 100 -tpw 0 -ar Structure -tm simple_pushButton -insert_pp_buffers true -w -dir netgen/par -ofmt vhdl -sim simple_pushButton.ncd simple_pushButton_timesim.vhd 
+xst -intstyle ise -ifn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.xst" -ofn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc simple_pushButton.ucf -p xc7a100t-csg324-3 simple_pushButton.ngc simple_pushButton.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o simple_pushButton_map.ncd simple_pushButton.ngd simple_pushButton.pcf 
+par -w -intstyle ise -ol high -mt off simple_pushButton_map.ncd simple_pushButton.ncd simple_pushButton.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml simple_pushButton.twx simple_pushButton.ncd -o simple_pushButton.twr simple_pushButton.pcf -ucf simple_pushButton.ucf 
+netgen -intstyle ise -s 3  -pcf simple_pushButton.pcf -rpw 100 -tpw 0 -ar Structure -tm simple_pushButton -insert_pp_buffers true -w -dir netgen/par -ofmt vhdl -sim simple_pushButton.ncd simple_pushButton_timesim.vhd 
+xst -intstyle ise -ifn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.xst" -ofn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc simple_pushButton.ucf -p xc7a100t-csg324-3 simple_pushButton.ngc simple_pushButton.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o simple_pushButton_map.ncd simple_pushButton.ngd simple_pushButton.pcf 
+par -w -intstyle ise -ol high -mt off simple_pushButton_map.ncd simple_pushButton.ncd simple_pushButton.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml simple_pushButton.twx simple_pushButton.ncd -o simple_pushButton.twr simple_pushButton.pcf -ucf simple_pushButton.ucf 
+netgen -intstyle ise -s 3  -pcf simple_pushButton.pcf -rpw 100 -tpw 0 -ar Structure -tm simple_pushButton -insert_pp_buffers true -w -dir netgen/par -ofmt vhdl -sim simple_pushButton.ncd simple_pushButton_timesim.vhd 
+xst -intstyle ise -ifn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.xst" -ofn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc simple_pushButton.ucf -p xc7a100t-csg324-3 simple_pushButton.ngc simple_pushButton.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o simple_pushButton_map.ncd simple_pushButton.ngd simple_pushButton.pcf 
+par -w -intstyle ise -ol high -mt off simple_pushButton_map.ncd simple_pushButton.ncd simple_pushButton.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml simple_pushButton.twx simple_pushButton.ncd -o simple_pushButton.twr simple_pushButton.pcf -ucf simple_pushButton.ucf 
+netgen -intstyle ise -s 3  -pcf simple_pushButton.pcf -rpw 100 -tpw 0 -ar Structure -tm simple_pushButton -insert_pp_buffers true -w -dir netgen/par -ofmt vhdl -sim simple_pushButton.ncd simple_pushButton_timesim.vhd 
+xst -intstyle ise -ifn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.xst" -ofn "C:/Users/Ankit/Desktop/AHD/UniversalRotator/simple_pushButton.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc simple_pushButton.ucf -p xc7a100t-csg324-3 simple_pushButton.ngc simple_pushButton.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o simple_pushButton_map.ncd simple_pushButton.ngd simple_pushButton.pcf 
+par -w -intstyle ise -ol high -mt off simple_pushButton_map.ncd simple_pushButton.ncd simple_pushButton.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml simple_pushButton.twx simple_pushButton.ncd -o simple_pushButton.twr simple_pushButton.pcf -ucf simple_pushButton.ucf 
+netgen -intstyle ise -s 3  -pcf simple_pushButton.pcf -rpw 100 -tpw 0 -ar Structure -tm simple_pushButton -insert_pp_buffers true -w -dir netgen/par -ofmt vhdl -sim simple_pushButton.ncd simple_pushButton_timesim.vhd 
