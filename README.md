@@ -9,7 +9,7 @@ sel <= “1XXXXX”  → perform right rotation
 ###Technology Used
 *	Language : VHDL
 *	Simulator: [Xilinx ISE Navigator](http://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/design-tools.html)
-*	FPGA: [Nexys4](http://store.digilentinc.com/nexys-4-ddr-artix-7-fpga-trainer-board-recommended-for-ece-curriculum/) 
+*	FPGA: [Nexys4 DDR](http://store.digilentinc.com/nexys-4-ddr-artix-7-fpga-trainer-board-recommended-for-ece-curriculum/) 
 *	Programmer : [Digilent Adept](http://store.digilentinc.com/digilent-adept-2-download-only/)
 
 ###[Demo Video](https://www.youtube.com/watch?v=LuC0sUbRnCA)
