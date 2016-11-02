@@ -1,16 +1,20 @@
 # 32-bit-Universal-Rotator
 ------------------------------------------------
-Implemented a data dependent 32-bit left rotate and 32-bit right rotate on FPGA board. Taking msb-bit of the rotational amount to decide the type of rotation (right/left)\s\s
-When,\s\s  
-sel <= “0XXXXX”  → perform left rotation\s\s
-sel <= “1XXXXX”  → perform right rotation\s\s
+Implemented a data dependent 32-bit left rotate and 32-bit right rotate on FPGA board. Taking msb-bit of the rotational amount to decide the type of rotation (right/left)
 
-**Technology Used**\s\s
+When,
+sel <= “0XXXXX”  → perform left rotation
+sel <= “1XXXXX”  → perform right rotation
+
+###Technology Used
 *	Language : VHDL
-*	Simolator: Xilinx ISE Navigator
-*	FPGA: Nexys4 
+*	Simulator: [Xilinx ISE Navigator](http://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/design-tools.html)
+*	FPGA: [Nexys4](http://store.digilentinc.com/nexys-4-ddr-artix-7-fpga-trainer-board-recommended-for-ece-curriculum/) 
+*	Programmer : [Digilent Adept](http://store.digilentinc.com/digilent-adept-2-download-only/)
 
-**Functional simulation screen-shots for various test cases**
+###[Demo Video](https://www.youtube.com/watch?v=LuC0sUbRnCA)
+
+###Functional simulation screen-shots for various test cases
 
 *	When input equals  0000 0000 0000 0000 0000 0000 0000 1111
 	Output when select key is “000010”
@@ -27,4 +31,3 @@ sel <= “1XXXXX”  → perform right rotation\s\s
 	Output when select key is “100010”
 ![alt text](https://github.com/addy1110/32-bit-Universal-Rotator/blob/master/Screenshot/a2_right_b1.JPG)
 
-**[Demo Video](https://www.youtube.com/watch?v=LuC0sUbRnCA)**
